@@ -30,6 +30,6 @@ Level 4, 275 George St, Brisbane City.
 
  - [Aaron Abrook](https://github.com/aabrook) - Team Lead at Cohort Go
  - [Mike Buhot](https://github.com/mbuhot) - Senior Engineer at Telstra
- - [Matt Furness](https://github.com/mattfurness) - Senior Engineer at StackTrace
+ - [Matt Furness](https://github.com/mattfurness) - Senior Engineer at Stacktrace
  - [Mark Ryal](https://github.com/markryall) - Code Wrangler at Automattic
  - [Colin Bankier](https://github.com/colinbankier) - Software Engineer at Atypon
